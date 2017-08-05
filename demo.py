@@ -1,3 +1,1 @@
-print 'hello world'
-print 'new hello world'
-print "new"
+print 'This is test data'
