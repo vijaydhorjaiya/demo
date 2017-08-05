@@ -1,1 +1,1 @@
-print 'This is test data'
+print 'This is test'
